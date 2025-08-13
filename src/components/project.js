@@ -13,6 +13,7 @@ const projectsData = [
       code: '#'
     }
   },
+  
   {
     id: 2,
     title: 'Resturant App',
@@ -42,9 +43,20 @@ const projectsData = [
     image: 'portfolio.png',
     links: {
      
-      code: '#'
+      code: 'https://portfolioo-azure-one.vercel.app/'
     }
-  }
+  },
+  {
+    id: 5,
+    title: 'weather app ',
+    description: 'Weather app solution with React, tailwind,.',
+    tags: ['React',  'html','css' ],
+    image: '/weather.png',
+    links: {
+      
+      code: 'https://weather-87r8.vercel.app/'
+    }
+  },
 ];
 
 
