@@ -57,6 +57,17 @@ const projectsData = [
       code: 'https://weather-87r8.vercel.app/'
     }
   },
+  {
+    id: 6,
+    title: 'weather app ',
+    description: 'Weather app solution with React, tailwind,.',
+    tags: ['React',  'html','css' ],
+    image: '/foodrecipe.png',
+    links: {
+      
+      code: 'https://recipe-foodfinder.vercel.app/'
+    }
+  },
 ];
 
 
