@@ -68,6 +68,17 @@ const projectsData = [
       code: 'https://recipe-foodfinder.vercel.app/'
     }
   },
+  {
+    id: 7,
+    title: 'netflix clone app ',
+    description: 'netflix clone app with React, html and css,.',
+    tags: ['React',  'html','css' ],
+    image: '/netflix.png',
+    links: {
+      
+      code: 'https://netflixapp-one.vercel.app/'
+    }
+  },
 ];
 
 
