@@ -79,6 +79,17 @@ const projectsData = [
       code: 'https://netflixapp-one.vercel.app/'
     }
   },
+  {
+    id: 8,
+    title: 'music stream  app ',
+    description: 'music stream  app with React, html and css,.',
+    tags: ['React',  'html','css' ],
+    image: '/musicapp.png',
+    links: {
+      
+      code: 'https://musicappi.vercel.app/'
+    }
+  },
 ];
 
 
