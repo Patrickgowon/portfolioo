@@ -7,10 +7,10 @@ const projectsData = [
     title: 'E-commerce Platform',
     description: 'A full-stack e-commerce solution with React, tailwind,.',
     tags: ['React',  'talwind','node.js' ],
-    image: '/ecommerce.png',
+    image: '/real-ecomerce.png',
     links: {
       
-      code: '#'
+      code: 'https://e-commerce-web-app-lilac.vercel.app/'
     }
   },
   
