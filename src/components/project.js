@@ -90,6 +90,17 @@ const projectsData = [
       code: 'https://musicappi.vercel.app/'
     }
   },
+  {
+    id: 9,
+    title: 'music stream  app ',
+    description: 'AI Translator web-app with React, html and css,.',
+    tags: ['React',  'html','css' ],
+    image: '/translator.png',
+    links: {
+      
+      code: 'https://a-itranslator-one.vercel.app/'
+    }
+  },
 ];
 
 
